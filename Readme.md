@@ -16,4 +16,8 @@ Credits:  "Alex" from learncpp.com,  The Youtuber "Cherno" and modern Language L
 
 Contact Information:  dannyred365@gmail.com
 
+Update Log:
+
+4/13/23: Created a basic GUI for the app and some basic source code for financial calculations.  Also included a timer debugger in the event handler to keep track of memory.  Achievements Unlocked:  Signals and Slots functions in Qt, how to make a timer debugger, wrestling with and understanding the limitations of makefile, and how to use CMake.   Next steps and considerations:  Creating buttons, connecting mathematical operations, consider memory management and leaks.
+
 
