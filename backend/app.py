@@ -4,7 +4,7 @@ from .backend_io import process_data
 app = Flask(__name__)
 
 @app.route('/calculate', methods=['POST'])
-def calculate_agi():
+def calculate():
     data = request.get_json()
     response = process_data(data)
     return jsonify(response)

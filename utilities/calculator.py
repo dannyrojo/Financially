@@ -1,2 +1,2 @@
-def calculate_double(agi):
-    return agi * 2
+def calculate(dictionary):
+    return "success"
